@@ -6,3 +6,4 @@
 4. Date counter(Slider): https://codesandbox.io/s/date-counter-slider-77cm9r?file=/src/App.js
 5. Accordion v1: https://codesandbox.io/s/accordion-26kc7w?file=/src/App.js
 6. Tip Calculator: https://codesandbox.io/s/xenodochial-microservice-6w7w9v?file=/src/App.js
+7. Text Expander: https://codesandbox.io/s/text-expander-pwfp5p?file=/src/App.js
